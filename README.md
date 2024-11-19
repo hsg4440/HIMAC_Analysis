@@ -17,13 +17,13 @@ do not use
 
 # "How To Use"
 
-'''bash
-git clone git@github.com:hsg4440/HIMAC_Analysis.git
-cd HIMAC_Analysis
-mkdir build && cd build
-cmake ..
-make -j4
-./CS_analysis
-'''
+    '''bash
+    git clone git@github.com:hsg4440/HIMAC_Analysis.git
+    cd HIMAC_Analysis
+    mkdir build && cd build
+    cmake ..
+    make -j4
+    ./CS_analysis
+    '''
 
 done.
