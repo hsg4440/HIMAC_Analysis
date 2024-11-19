@@ -4,11 +4,15 @@ This is for HIMAC Experiment analysis
 main file is CS_analyis.C
 
 do not use 
-    TransformTest.C
-    cs_analysis.C
-    smallDataDriving.cc
-    tcutg.C
 
+    TransformTest.C
+
+    cs_analysis.C
+
+    smallDataDriving.cc
+
+    tcutg.C
+    
 
 "How To Use"
 
