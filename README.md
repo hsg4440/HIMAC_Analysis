@@ -26,7 +26,7 @@ do not use
     mkdir build && cd build
     cmake ..
     make -j4
-    ./CS_analysis
+    ./CSanalysis
 
 
 done.
