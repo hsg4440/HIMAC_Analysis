@@ -12,9 +12,10 @@ do not use
     smallDataDriving.cc
 
     tcutg.C
-    
 
-"How To Use"
+---
+
+# "How To Use"
 
 '''bash
 git clone git@github.com:hsg4440/HIMAC_Analysis.git
@@ -23,5 +24,6 @@ mkdir build && cd build
 cmake ..
 make -j4
 ./CS_analysis
+'''
 
 done.
